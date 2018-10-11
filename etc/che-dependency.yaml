@@ -1,0 +1,4 @@
+plugins:
+  - id: theia-sonarsource-sonarlint-plugin
+    version: 1.0.0
+    location: /sonarsource-sonarlint-plugin

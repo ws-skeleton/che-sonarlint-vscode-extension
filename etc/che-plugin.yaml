@@ -1,0 +1,6 @@
+id: sonarlint-id
+name: sonarlint
+containers:
+ - name: theia-sonarlint
+   image: wsskeleton/theia-endpoint-java8
+   memory-limit: "700Mi"
